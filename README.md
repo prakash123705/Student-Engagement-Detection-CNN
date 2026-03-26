@@ -236,6 +236,6 @@ This improved accuracy significantly.
 
 ## Author
 
-**[LOPINTI HARI]**
+**[MOGGA PRAKASH]**
 AI/ML Enthusiast | Data Science
 
